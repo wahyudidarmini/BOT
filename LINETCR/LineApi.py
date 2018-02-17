@@ -6,7 +6,7 @@ import shutil
 import json
 import subprocess
 from random import randint
-#from gtts import gTTS
+from gtts import gTTS
 
 def def_callback(str):
     print(str)
