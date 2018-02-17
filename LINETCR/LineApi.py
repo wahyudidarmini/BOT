@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from Api import Poll, Talk, channel
+from Api import LA = "IOSIPAD 7.4.7 iPhone OS 7.0.2",UA = "Line/7.4.7 iPad3,6 7.0.2"
 from lib.curve.ttypes import *
 import requests
 import shutil
